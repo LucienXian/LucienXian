@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucienXian
 - 👀 I’m interested in distributed database system
-- 🌱 I’m currently learning all relevant distributed systems knowledge and modern cpp
+- 🌱 I’m currently learning all relevant distributed systems knowledge and mlsys
 
 <!---
 LucienXian/LucienXian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
